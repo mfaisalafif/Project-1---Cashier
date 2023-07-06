@@ -7,8 +7,8 @@
 
 # Requirements
 1. Customer melakukan input nama dan nomor ID   
-2. Customer melakukan input nama, jumlah dan harga barang ke dalam keranjang
-3. Customer mengupdate nama, jumlah dan haraga barang jika ada kesalahan input
+2. Customer melakukan input nama barang, jumlah barang dan harga barang ke dalam keranjang
+3. Customer mengupdate nama, jumlah dan harga barang jika ada kesalahan input
 4. Customer membatalkan pemesanan barang:
    - Menghapus barang dari keranjang
    - Melakukan _reset_ keranjang
