@@ -1,5 +1,5 @@
 # Project 01 : Cashier
-# Latar Belakang
+# Background
 **Panjat (Panduan Belanja Termurah)** merupakan sistem _self service_ yang bertujuan untuk memudahkan customer melakukan pemesanan ke supermarket. Customer dapat melakukan input nama barang, jumlah barang dan harga barang ke dalam keranjang belanja. Jika customer melakukan kesalahan input maka customer dapat melakukan update nama, jumlah ataupun harga barang tersebut. Customer juga dapat membatalkan pemesanan barang dengan cara menghapus beberapa barang yang ingin dibatalkan ataupun dengan melakukan _reset_ (menghapus seluruh barang dari keranjang belanja). Setelah pemesanan selesai, customer dapat melihat isi keranjang belanja, mengecek apakah total belanja mendapatkan diskon sesuai ketentuan yang berlaku, dan melihat total harga yang perlu dibayar.
 
 
