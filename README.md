@@ -22,7 +22,7 @@
 8. Customer dapat melihat total harga akhir yang perlu dibayar
 
 # Flowchart
-Berikut ini merupakan flowchart untuk menggunakan sistem Panjat
+Berikut ini merupakan flowchart untuk menggunakan sistem Panjat (Panduan Belanja Termurah)
 
 
 ![Flow](https://github.com/mfaisalafif/Project01_Cashier/blob/main/Flowchart%20Cashier.png)
