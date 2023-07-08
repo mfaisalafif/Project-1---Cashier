@@ -22,6 +22,8 @@
 8. Customer dapat melihat total harga akhir yang perlu dibayar
 
 # Flowchart
+Berikut ini merupakan flowchart untuk menggunakan sistem Panjat
+![Flow](https://github.com/mfaisalafif/Project01_Cashier/blob/main/Flowchart%20Cashier.png)
 
 # Penjelasan fungsi
 
