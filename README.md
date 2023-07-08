@@ -555,32 +555,33 @@ Method ini befungsi untuk mengecek apakah customer mendapatkan diskon sesuai den
 ## Pre-Test
 Customer ingin menginput nama dan nomor ID dengan menggunakan fungsi _nama_dan_id()_.
 
-
+![Pre_Test](https://github.com/mfaisalafif/Project01_Cashier/blob/main/Images/Nama%20dan%20ID.jpg)
 
 ## Test 1
 Customer ingin menambahkan dua item baru menggunakan method _tambah_barang()_. item yang ditambahkan adalah sebagai berikut:
-Nama item: Ayam Goreng, Qty: 2 dan harga per item: 20000
-Nama item: Pasta Gigi, Qty: 3 dan harga per item: 15000
+   - Nama item: Ayam Goreng, Qty: 2 dan harga per item: 20000
+   - Nama item: Pasta Gigi, Qty: 3 dan harga per item: 15000
 
-
+![Test_1](https://github.com/mfaisalafif/Project01_Cashier/blob/main/Images/Test%201.jpg)
 
 ## Test 2
 Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka customer menggunakan method _hapus_barang()_ untuk menghapus item. Item yang ingin dihapus adalah Pasta Gigi.
 
-
+![Test_2](https://github.com/mfaisalafif/Project01_Cashier/blob/main/Images/Test%202.jpg)
 
 ## Test 3
 Customer salah memasukkan item yang ingin dibelanjakan. Daripada menghapusnya satu-satu, maka customer cukup menggunakan method _kosongkan_keranjang()_ untuk menghapus semua item yang sudah ditambahkan.
 
-
+![Test_3](https://github.com/mfaisalafif/Project01_Cashier/blob/main/Images/Test%203.jpg)
 
 ## Test 4
 Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method _total_belanja()_ dan _total_belanja_akhir()_. Sebelum mengeluarkan output total belanja akan menampilkan item-item yang dibeli.
 
-
-
-
+![Test_4](https://github.com/mfaisalafif/Project01_Cashier/blob/main/Images/Test%204.jpg)
 
 
 # Suggestion and Conclusion
-
+Sistem _self checkout_ **Panjat (Panduan Belanja Termurah)** dapat berfungsi sesuai dengan semua requirements yang diperlukan dan dapat memudahkan customer melakukan pemesanan ke supermarket tanpa harus datang ke supermarket secara langsung. Beberapa improvement yang perlu diimplementasikan dalam sistem _self checkout_ **Panjat** antara lain.
+   1.	Daftar barang terlaris & daftar barang dengan potongan harga ditampilkan di menu awal
+   2.	Sistem dapat menampilkan stock barang, harga, dan expired date (_product catalogue_)
+   3.	Sistem dapat mengelompokkan barang sesuai dengan kategori (makanan, minuman, sayur, buah, alat rumah tangga, dst)
